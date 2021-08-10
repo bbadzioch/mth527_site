@@ -8,13 +8,13 @@ published: true
 
 ## Lectures
 
-* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
-* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
+* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
+* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
 
 
 ## Recitations
 
-* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
+* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
 
 Recitations are meant primarily for students taking MTH 427, but anyone interested
 can participate.   
@@ -23,7 +23,7 @@ can participate.
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Thu 5:00 - 7:00 PM [Math Building 108](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
+**Office Hours:** Thu 5:00 - 7:00 PM [Math Building 108](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
 
 
 ## TA
@@ -47,7 +47,7 @@ the beginning of the course.
 
 The course will follow lecture notes posted on this website.
 If you would like to use a published text as a supplement, a popular and good
-textbook is e.g. [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Economy-James-Munkres/dp/8120320468/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=8120320468&pd_rd_r=4VZWC9KGC5G31YR4T9ZA&pd_rd_w=5hg0t&pd_rd_wg=60htE&psc=1&refRID=4VZWC9KGC5G31YR4T9ZA).
+textbook is e.g. [Topology by J.R. Munkres](https://www.amazon.com/Topology-2nd-Economy-James-Munkres/dp/8120320468/ref=pd_cp_14_1?_encoding=UTF8&pd_rd_i=8120320468&pd_rd_r=4VZWC9KGC5G31YR4T9ZA&pd_rd_w=5hg0t&pd_rd_wg=60htE&psc=1&refRID=4VZWC9KGC5G31YR4T9ZA){:target="_blank"}.
 There are many other good options. You can check with me if you would like to
 use some other book.
 
