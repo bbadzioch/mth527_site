@@ -6,29 +6,15 @@ published: true
 
 # Course Information
 
-{% include note.html content='
-Lectures, recitations and office hours will be conducted on the course
-Discord server. If you have not received an access link to the
-server, email me at [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527).  
-' %}
-
 ## Lectures
 
-* Mon 2:30 - 3:50 PM on Discord
-* Wed 2:30 - 3:50 PM on Discord
-
-The class will be divided in two groups, and each group will attend only
-one weekly meeting. This is meant to partially offset the time that you will
-need to spend watching videos with lectures, and also to assure that our
-live meetings are small, so that everyone has a chance to talk during them.
-
-Current group assignments are posted [here](/assets/group_assignments.pdf).
-
+* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
+* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
 
 
 ## Recitations
 
-* Wed 5:20 - 6:10 PM on Discord
+* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
 
 Recitations are meant primarily for students taking MTH 427, but anyone interested
 can participate.   
@@ -37,17 +23,13 @@ can participate.
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Mon, Wed 3:50 - 5:00 PM on Discord
+**Office Hours:** Thu 5:00 - 7:00 PM [Math Building 108](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
 
 
 ## TA
 
-Bratati Som
-**E-mail:** [bratatis@buffalo.edu](mailto:bratatis@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Thu 12:00 - 2:00 PM on Zoom.
+TBA
 
-Link to Bratati's Zoom office hours is posted on the course-announcements channel
-on Discord.
 
 ## Prerequisites
 
@@ -71,9 +53,11 @@ use some other book.
 
 ## Grading
 
-| **Homework**                          | 40% |  
-| **Class participation** &nbsp; &nbsp; | 20% |
-| **Final Exam**                        | 40% |  
+| **Homework**                          | 30% |  
+| **Midtem Exam 1** &nbsp; &nbsp;       | 15% |
+| **Midtem Exam 1** &nbsp; &nbsp;       | 15% |
+| **Class participation** &nbsp; &nbsp; | 10% |
+| **Final Exam**                        | 30% |  
 
 
 ## Homework
@@ -96,10 +80,10 @@ I will explain in class how to use it.
 
 Class participation credit will be based on two components.
 
-**Class attendance.** You can earn up to 10% of the total course credit
+**Class attendance.** You can earn up to 5% of the total course credit
 for being present and on time during class meetings. You can miss one
 class meeting without a justified reason. Each subsequent unexcused absence
-will lower your participation credit by 2% (i.e. from 10% to 8% etc.).
+will lower your participation credit by 1% (i.e. from 5% to 4% etc.).
 
 **Weekly digest.** As a part of each homework you will be asked to submit
 a short (2-3 sentences) writeup on your study from the previous week.
@@ -113,9 +97,9 @@ For example, you can write:
 You will be also asked to submit questions that you would like to see discussed
 during a class meeting.  
 
-You can receive up to 10% credit for these writeups. You can miss one
+You can receive up to 5% credit for these writeups. You can miss one
 such assignment without loosing any credit, but your weekly digest credit will be
-lowered by 2% for each subsequent missed assignment.   
+lowered by 1% for each subsequent missed assignment.   
 
 I may award extra credit to students who are especially active in the course.
 I may also offer some extra credit opportunities for giving short presentations
@@ -124,8 +108,10 @@ on some topic etc.
 
 ## Exams
 
-The [final exam]({% post_url /modules/schedule/_posts/2001-01-01-final_exam %})
-will be given on Tuesday, December 15 at 3:45 PM - 7:30 PM.
+| **Midterm Exam 1** | Thursday, October 8, 2:20 - 3:35 PM   | Clemens Hall 19  |
+| **Midterm Exam 2** | Thursday, November 12, 2:20 - 3:35 PM | Clemens Hall 19  |
+| **Final Exam**     | Tuesday, December 14, 3:30 - 6:30 PM  | Clemens Hall 19  |  
+
 
 
 ## Incomplete Grades
