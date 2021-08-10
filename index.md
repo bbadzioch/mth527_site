@@ -8,8 +8,8 @@ published: true
 
 ## Lectures
 
-* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}.
-* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}.
+* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
+* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN).
 
 
 ## Recitations
@@ -22,8 +22,8 @@ can participate.
 ## Instructor
 
 Bernard Badzioch  
-**E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)
-**Office Hours:** Thu 5:00 - 7:00 PM [Math Building 108](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
+**E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
+**Office Hours:** Thu 5:00 - 7:00 PM [Math Building 108](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
 
 
 ## TA
