@@ -8,13 +8,13 @@ published: true
 
 ## Lectures
 
-* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
-* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}
+* Tue 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}.
+* Thu 2:20 - 3:35 PM [Clemens Hall 19](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#CLEMEN){:target="_blank"}.
 
 
 ## Recitations
 
-* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
+* Thu 7:05 - 7:55 PM [Math Building 250](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH)
 
 Recitations are meant primarily for students taking MTH 427, but anyone interested
 can participate.   
@@ -62,7 +62,7 @@ use some other book.
 
 ## Homework
 
-Homework problems will be assigned each Thursday and will be due on Friday
+Homework problems will be assigned each Wednesday and will be due on Thursday
 the following week. Students registered for MTH 527 are required to submit homework solutions
 typeset in LaTeX. Students registered for MTH 427 are encouraged to use LaTeX as
 well: this is the standard tool for preparing mathematical and other technical texts
@@ -108,9 +108,9 @@ on some topic etc.
 
 ## Exams
 
-| **Midterm Exam 1** &nbsp; &nbsp;| Thursday, October 8, 2:20 - 3:35 PM   &nbsp; &nbsp;| Clemens Hall 19  |
-| **Midterm Exam 2** &nbsp; &nbsp;| Thursday, November 12, 2:20 - 3:35 PM &nbsp; &nbsp;| Clemens Hall 19  |
-| **Final Exam**     &nbsp; &nbsp;| Tuesday, December 14, 3:30 - 6:30 PM  &nbsp; &nbsp;| Clemens Hall 19  |  
+| **Midterm Exam 1** &nbsp; &nbsp;| Thursday, October 8, 2:20 - 3:35 PM   | Clemens Hall 19  |
+| **Midterm Exam 2** &nbsp; &nbsp;| Thursday, November 12, 2:20 - 3:35 PM | Clemens Hall 19  |
+| **Final Exam**     &nbsp; &nbsp;| Tuesday, December 14, 3:30 - 6:30 PM  | Clemens Hall 19  |  
 
 
 
