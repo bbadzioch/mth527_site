@@ -62,7 +62,7 @@ use some other book.
 
 ## Homework
 
-Homework problems will be assigned each Wednesday and will be due on Thursday
+Homework problems will be assigned each Thursday and will be due on Friday
 the following week. Students registered for MTH 527 are required to submit homework solutions
 typeset in LaTeX. Students registered for MTH 427 are encouraged to use LaTeX as
 well: this is the standard tool for preparing mathematical and other technical texts
