@@ -15,8 +15,8 @@ point for each homework problem solution prepared in LaTeX
 
 <br/>
 Below is a link to a LaTeX template that you can use for typesetting homework assignments.
-You can use with <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>
-or any other LaTeX editor.
+You can use it with <a href="https://www.overleaf.com/" target="_blank">Overleaf</a>
+or any other LaTeX editor. 
 <br/>
 <a href="/assets/homework_template.zip" markdown="0" style="font-family: Courier, monospace; font-weight:bold;">
 <i markdown="0" class="fa fa-download fa-lg"></i> homework_template.zip</a>
