@@ -42,6 +42,23 @@ of a sequence of real numbers. Prior knowledge of operations on sets (union,
 intersection, difference, product) is also expected, but I will review this at
 the beginning of the course.
 
+## Learning outcomes
+
+After completing this course student should be able to:
+
+* Understand the notions of a metric space, topological space, subspace,
+  product space, quotient space, topological manifold and provide examples
+  illustrating each of these notions.
+* Understand the notion of a continuous function between topological space and
+  of a homeomorphism of topological space, and be able to recognize if a given
+  function is continuous and if it is a homeomorphism.
+* Understand basic topological properties: metrizability, compactness, connectedness,
+  path connectedness, separation axioms etc., understand various connections between
+  these properties and be able to provide examples of topological spaces that satisfy
+  or do not satisfy these properties.
+* Prove or disprove statements concerning topological spaces and continuous functions.
+
+
 
 ## Textbook
 
@@ -62,11 +79,12 @@ use some other book.
 
 ## Homework
 
-Homework problems will be assigned each Thursday and will be due on Friday
-the following week. Students registered for MTH 527 are required to submit homework solutions
-typeset in LaTeX. Students registered for MTH 427 are encouraged to use LaTeX as
-well: this is the standard tool for preparing mathematical and other technical texts
-and it is good to get acquainted with it.
+Homework problems will be assigned each week. Students registered for MTH 527 are
+required to submit homework solutions typeset in LaTeX. Students registered for
+MTH 427 are encouraged to use LaTeX as well: this is the standard tool for preparing
+mathematical and other technical texts and it is good to get acquainted with it.
+MTH 427 students will receive one bonus point for each homework problem solution
+prepared in LaTeX. I give a brief introduction to LaTeX during the first week of the course.
 
 You can collaborate on homework problems, but you must write solutions entirely on your
 own, not copy them. Do not search for solutions on the web, in textbooks etc. -
