@@ -49,11 +49,11 @@ After completing this course student should be able to:
 * Understand the notions of a metric space, topological space, subspace,
   product space, quotient space, topological manifold and provide examples
   illustrating each of these notions.
-* Understand the notion of a continuous function between topological space and
-  of a homeomorphism of topological space, and be able to recognize if a given
+* Understand the notion of a continuous function between topological spaces and
+  of a homeomorphism, and be able to recognize if a given
   function is continuous and if it is a homeomorphism.
 * Understand basic topological properties: metrizability, compactness, connectedness,
-  path connectedness, separation axioms etc., understand various connections between
+  path connectedness, separation axioms etc. Understand various connections between
   these properties and be able to provide examples of topological spaces that satisfy
   or do not satisfy these properties.
 * Prove or disprove statements concerning topological spaces and continuous functions.
