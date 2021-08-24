@@ -8,8 +8,9 @@ title: Homework template
 
 {% include note.html content='
 Students registered for MTH 527 are required to submit homework
-solutions typeset in LaTeX. Students registered for MTH 427 are strongly
-encouraged to use LaTeX for homework.
+solutions typeset in LaTeX. MTH 427 students will receive one bonus
+point for each homework problem solution prepared in LaTeX
+(solutions that show no mathematical effort do not count).
 <br/>
 
 <br/>

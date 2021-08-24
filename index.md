@@ -79,17 +79,18 @@ use some other book.
 
 ## Homework
 
-Homework problems will be assigned each week. Students registered for MTH 527 are
-required to submit homework solutions typeset in LaTeX. Students registered for
-MTH 427 are encouraged to use LaTeX as well: this is the standard tool for preparing
-mathematical and other technical texts and it is good to get acquainted with it.
-MTH 427 students will receive one bonus point for each homework problem solution
-prepared in LaTeX. I give a brief introduction to LaTeX during the first week of the course.
+Homework problems assigned weekly, and will be due on Friday each week.
+Students registered for MTH 527 are required to submit homework solutions typeset
+in LaTeX. Students registered for MTH 427 are encouraged to use LaTeX as well:
+this is the standard tool for preparing mathematical and other technical texts
+and it is good to get acquainted with it. MTH 427 students will receive one bonus
+point for each homework problem solution prepared in LaTeX (solutions that show
+no mathematical effort do not count). I will give a brief introduction to LaTeX
+during the first week of the course.
 
 You can collaborate on homework problems, but you must write solutions entirely on your
-own, not copy them. Do not search for solutions on the web, in textbooks etc. -
-this defeats the purpose of homework which is to let you practice your own problem
-solving skills.
+own. Copying solutions from other students or any other sources is a violation
+of the UB academic integrity policy.
 
 Homework assignments will be collected and returned through [Gradescope](https://www.gradescope.com).
 I will explain in class how to use it.
