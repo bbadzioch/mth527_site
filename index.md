@@ -127,9 +127,9 @@ on some topic etc.
 
 ## Exams
 
-| **Midterm Exam 1** &nbsp; &nbsp;| Thursday, October 8, 2:20 - 3:35 PM   | Clemens Hall 19  |
-| **Midterm Exam 2** &nbsp; &nbsp;| Thursday, November 12, 2:20 - 3:35 PM | Clemens Hall 19  |
-| **Final Exam**     &nbsp; &nbsp;| Tuesday, December 14, 3:30 - 6:30 PM  | Clemens Hall 19  |  
+| **Midterm Exam 1** &nbsp; &nbsp;| Thursday, October 8, 2:20 - 3:35 PM    &nbsp; &nbsp;| Clemens Hall 19  |
+| **Midterm Exam 2** &nbsp; &nbsp;| Thursday, November 12, 2:20 - 3:35 PM  &nbsp; &nbsp;| Clemens Hall 19  |
+| **Final Exam**     &nbsp; &nbsp;| Tuesday, December 14, 3:30 - 6:30 PM   &nbsp; &nbsp;| Clemens Hall 19  |  
 
 
 
