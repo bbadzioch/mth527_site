@@ -50,7 +50,7 @@ After completing this course student should be able to:
   product space, quotient space, topological manifold and provide examples
   illustrating each of these notions.
 * Understand the notion of a continuous function between topological spaces and
-  of a homeomorphism, and be able to recognize if a given
+  a homeomorphism, and be able to recognize if a given
   function is continuous and if it is a homeomorphism.
 * Understand basic topological properties: metrizability, compactness, connectedness,
   path connectedness, separation axioms etc. Understand various connections between
@@ -72,14 +72,14 @@ use some other book.
 
 | **Homework**                          | 30% |  
 | **Midtem Exam 1** &nbsp; &nbsp;       | 15% |
-| **Midtem Exam 1** &nbsp; &nbsp;       | 15% |
+| **Midtem Exam 2** &nbsp; &nbsp;       | 15% |
 | **Class participation** &nbsp; &nbsp; | 10% |
 | **Final Exam**                        | 30% |  
 
 
 ## Homework
 
-Homework problems assigned weekly, and will be due on Friday each week.
+Homework problems will be assigned weekly, and will be due on Friday each week.
 Students registered for MTH 527 are required to submit homework solutions typeset
 in LaTeX. MTH 427 students will receive one bonus point for each homework problem
 solution prepared in LaTeX (solutions that show no mathematical effort do not count).
@@ -144,4 +144,4 @@ See the UB Catalog for the [UB Academic Integrity Policy](https://catalog.buffal
 
 If you need accommodations due to a physical or learning disability please contact the
 [UB Accessibility Resources Office](https://www.buffalo.edu/studentlife/who-we-are/departments/accessibility.html)
-to make appropriate arrangements.
+to get halp with making appropriate arrangements.
