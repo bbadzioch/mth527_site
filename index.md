@@ -4,7 +4,9 @@ published: true
 ---
 
 
-# Course Information
+# Syllabus
+
+A PDF version of this syllabus is available <a href="/assets/syllabus.pdf" markdown="0">here</a>.
 
 ## Lectures
 
@@ -24,12 +26,13 @@ can participate.
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
 **Office Hours:** Thu 5:00 - 7:00 PM on [MTH 447/547 Discord server](https://discord.com/)
-and by appointment. 
+and by appointment.
 
 ## TA
 
-TBA
-
+Deepisha Solanki
+**E-mail:** [deepisha@buffalo.edu](mailto:deepisha@buffalo.edu?subject=MTH 427/527)  
+**Office Hours:** TBA
 
 ## Prerequisites
 
