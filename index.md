@@ -18,7 +18,7 @@ one weekly meeting. This is meant to partially offset the time that you will
 need to spend watching videos with lectures, and also to assure that our
 in-person meetings are small and more interactive.
 
-Group assignments are posted [here](/assets/group_assignments.pdf).
+**Group assignments are posted [here](/assets/group_assignments.pdf).**
 
 ## Recitations
 
