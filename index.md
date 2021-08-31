@@ -25,7 +25,7 @@ can participate.
 
 Bernard Badzioch  
 **E-mail:** [badzioch@buffalo.edu](mailto:badzioch@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** Thu 5:00 - 7:00 PM on [MTH 447/547 Discord server](https://discord.com/)
+**Office Hours:** Fri 5:00 - 7:00 PM on [MTH 447/547 Discord server](https://discord.com/)
 and by appointment.
 
 ## TA
