@@ -38,7 +38,7 @@ and by appointment.
 
 Deepisha Solanki
 **E-mail:** [deepisha@buffalo.edu](mailto:deepisha@buffalo.edu?subject=MTH 427/527)  
-**Office Hours:** TBA
+**Office Hours:**  Tue, Thu 1:05 - 2:05 PM  [Math Building 140](http://www.buffalo.edu/home/visiting-ub/CampusMaps/maps.html#MATH){:target="_blank"}
 
 ## Prerequisites
 
